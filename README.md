@@ -1,6 +1,9 @@
 # Android Quote Span with AppCompat Support using both Java and Kotlin
 This is the easiest way to implement Android Quote Span with customized Stripe width and Gap width without writing your own Quote Span class while maintaining support for Android API level 27 and below. I am using a Parcel to pass the width parameters to the QuoteSpan object.
 
+## Implementation Preview
+<img src="images/quote_span_screen.png" width="500"/>
+
 ## Getting Started
 
 Use this if you want to implement Android Quote Span without implementing your custom Quote Span class and reuse Google readymade one along with customizing the Stripe width and Gap width.
