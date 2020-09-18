@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuoteSpanUsingParcel</string>
+    <string name="product_name">Product Name</string>
+    <string name="category">Category</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="top_review">This is a great example of QuoteSpan in Android. Using this method we can implement QuoteSpan and customize it\'s stripe width and gap width without writing our own class. Also this method gives support to all lower versions of Android.</string>
+    <string name="date">Sep 20, 2020</string>
+</resources>
